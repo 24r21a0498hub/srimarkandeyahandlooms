@@ -1,0 +1,6 @@
+{
+  "name": "Aadya Silks - Heritage Handloom Sarees",
+  "description": "Authentic handloom silk sarees, bridal Kanjivarams, Banarasi brocades, and local boutique bespoke styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
